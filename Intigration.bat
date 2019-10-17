@@ -1,1 +1,1 @@
-Echo "path"
+Echo "ver"
