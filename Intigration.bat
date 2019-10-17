@@ -1,1 +1,1 @@
-Echo "Version"
+Echo "path"
